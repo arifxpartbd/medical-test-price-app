@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "716391688865",
+    "firebase_url": "https://medical-test-report.firebaseio.com",
+    "project_id": "medical-test-report",
+    "storage_bucket": "medical-test-report.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716391688865:android:fad24ea5745868ba275ee0",
+        "android_client_info": {
+          "package_name": "com.medicaltestpriceappbd.medicaltestpriceappbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716391688865-d99qb8lu4jcq0oolevql98c4rt5n313p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo6t8Fv2tklufPc-GtYgaOHcjAWmVTpZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716391688865-d99qb8lu4jcq0oolevql98c4rt5n313p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716391688865-9f2f0ibr1gopumh35htr5q91g6rdo56t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicaltestprice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716391688865:android:6815248d3e9e9436275ee0",
+        "android_client_info": {
+          "package_name": "medicaltestprice.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716391688865-d99qb8lu4jcq0oolevql98c4rt5n313p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo6t8Fv2tklufPc-GtYgaOHcjAWmVTpZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716391688865-d99qb8lu4jcq0oolevql98c4rt5n313p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716391688865-9f2f0ibr1gopumh35htr5q91g6rdo56t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicaltestprice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
