@@ -108,11 +108,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                     ListTile(
                                       title: Text(test.name),
                                       subtitle: Text(test.price),
-                                      leading: CircleAvatar(
-                                        child: Image.network(
-                                          "https://bsmmu.edu.bd/assets/images/logo.png",
-                                          fit: BoxFit.cover,
-                                        ),
+                                      leading: Image.asset(
+                                        "images/img.png",
+                                        fit: BoxFit.cover,
                                       ),
                                       trailing: ElevatedButton(
                                           style: ElevatedButton.styleFrom(
